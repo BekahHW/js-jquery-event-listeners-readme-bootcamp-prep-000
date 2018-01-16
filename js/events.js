@@ -30,17 +30,6 @@ function submitIt(){
 }
 
 $(document).ready(function(){
-
-
-
- 
-
-  
- //actions you want to happen
 });
 
 
-// call functions here
-
-
-}}
